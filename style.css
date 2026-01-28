@@ -4,7 +4,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-image: url(https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_1280.jpg) no-repeat;
+    background-image: url(https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_1280.jpg);
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -72,4 +72,5 @@ footer {
     margin-top: 20px;
     padding: 10px;
     color: #f4f4f4;
+
 }
